@@ -7,7 +7,7 @@ Once you have a working executable .jar file, run the command
 java -jar ./connect4.jar
 ```
 
-** Setup **
+**Setup**
 Select how many rows you want for your connect "4" board.
 Select how many columns you want for your board.
 
@@ -16,7 +16,8 @@ Select how many pieces you must connect to win (standard would be 4, but you can
 Select how deep the program should search in its minimax tree.
 Lastly, select how long the AI gets to make its move.
 
-** Selecting a game type **
+**Selecting a game type**
+
 There are 5 game types available.
 - Human Vs AI (human goes first)
 - AI Vs Human (AI goes first)
@@ -25,7 +26,7 @@ There are 5 game types available.
 - Human vs Human
 - There is a sixth option for diagnostics/stress testing
 
-** Playing the game **
+**Playing the game**
 Instructions for playing the game will be displayed on the screen before starting gameplay.
 
 ## Example output
